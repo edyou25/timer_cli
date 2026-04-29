@@ -1,4 +1,17 @@
-# timer
+# timer_cli
+`$ timer 1h30m`
+```
+
+             ███    █         █████  ███ 
+            █   █  ██     █   █     █   █
+            █   █   █         ████  ████ 
+            █   █   █     █       █     █
+             ███   ███        ████   ███ 
+
+    [──────────────────────────────────────────]
+
+                  ends 15:41  ·  0%
+```
 
 A full-screen countdown timer for the terminal. No dependencies.
 
